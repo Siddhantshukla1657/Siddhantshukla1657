@@ -108,10 +108,24 @@ Currently pursuing a **B.Tech in Computer Science & Engineering** at K.J. Somaiy
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddhantshukla1657&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhantshukla1657&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170"/>
+  <!-- Main Stats + Top Languages -->
+  <img src="https://github-stats-extended.vercel.app/api?username=Siddhantshukla1657&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="170" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Siddhantshukla1657&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170" alt="Top Languages"/>
 </div>
 
+<br/>
+
+<div align="center">
+  <!-- Contribution Streak -->
+  <img src="https://streak-stats.demolab.com?user=Siddhantshukla1657&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="170" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Siddhantshukla1657&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
 <br/>
 
 ---
